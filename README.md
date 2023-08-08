@@ -11,7 +11,7 @@ Some technologies I enjoy working with includes ReactJs, Django, Python, Java, D
 - 📫 How to reach me: [Manish Kumar](mailto:rishimanish123@gmail.com?subject=[Github]%20Hello%20Manish)
 
 
-![Profile views](https://gpvc.arturio.dev/manishkumr)  
+![Profile views](https://komarev.com/ghpvc/?username=manishkumr)  
 
 ### 🚀 Skills ###
 #### 🪂 Frameworks ####
